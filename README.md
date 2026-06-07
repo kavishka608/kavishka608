@@ -82,7 +82,7 @@ System design and implementation including UML diagrams and backend logic.
 
 ## 📫 Contact Me
 
-📧 Email: your-email@example.com  
+📧 Email: kavishkadewduni@gmail.com 
 💼 LinkedIn: https://linkedin.com/in/your-profile  
 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 
