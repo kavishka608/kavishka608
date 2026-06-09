@@ -83,8 +83,8 @@ System design and implementation including UML diagrams and backend logic.
 ## 📫 Contact Me
 
 📧 Email: kavishkadewduni@gmail.com 
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+💼 LinkedIn: https://www.linkedin.com/in/kavishka-dewduni/
+🐙 GitHub: https://github.com/kavishka608  
 
 ---
 
