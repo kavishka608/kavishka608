@@ -72,17 +72,6 @@ I am a passionate and dedicated Software Engineering graduate based in Sri Lanka
 
 ---
 
-
-- 🏗️ Built a full-stack platform connecting homeowners with construction professionals using **Node.js**, **Express**, and **PostgreSQL**
-- 🔗 Implemented **20+ RESTful APIs** with **JWT authentication** for user management, projects, bids, reviews, and portfolios
-- 🗃️ Designed **PostgreSQL** database with **7 tables** including Users, Professionals, Projects, Bids, and Reviews
-- 🎨 Developed **React frontend** with responsive UI for seamless booking experience
-- 💰 Created bidding system, professional search, and rating/review functionality
-- 📅 Integrated professional portfolio management and availability tracking
-
-**Tech:** `Node.js` `Express.js` `PostgreSQL` `React` `JWT` `REST API`
-
----
 <!-- ========================= GITHUB STATUS ========================= -->
 
 <h2 align="center">
