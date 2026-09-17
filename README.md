@@ -123,23 +123,24 @@ System design and implementation including UML diagrams and backend logic.
 > ➡️ *Explore more projects in my [repositories](https://github.com/kavishka608?tab=repositories).*
 
 ---
+<!-- ========================= GITHUB STATUS ========================= -->
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+  GitHub Status
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishka608&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishka608&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
+<br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kavishka608&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://yourinsights.vercel.app/api/insight?username=kavishka608"
+    alt="Kavishka's GitHub Insights"
+    width="90%"
+  />
 </p>
 
----
 
 ## 🌱 Currently Learning
 
