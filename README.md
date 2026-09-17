@@ -72,30 +72,6 @@ I am a passionate and dedicated Software Engineering graduate based in Sri Lanka
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 HirePath AI – AI-Powered Recruitment Platform
-**Full-Stack Developer (Recruiter Module) — 5-Member Team Project** &nbsp;|&nbsp; *Jun 2026 – Aug 2026*
-
-A recruiter management subsystem built with clean architecture and modern .NET technologies.
-
-- 🔧 Built recruiter management subsystem with **9 RESTful APIs** using **ASP.NET Core 8**, **C#**, and **Entity Framework Core** with **SQL Server**
-- 🏗️ Implemented **Repository Pattern** and **Service Layer** following **SOLID** principles for clean architecture
-- 🗃️ Designed database models for Companies, Departments, Jobs, and JobSkills with proper relationships
-- 🔍 Developed job search with **LINQ** filtering and real-time dashboard statistics endpoint
-- 🔐 Created **DTOs** for secure API data transfer and documented all endpoints with **Swagger**
-- 🤝 Collaborated with a 5-member team using **Git** and **Agile** methodology
-
-**Tech:** `ASP.NET Core 8` `C#` `Entity Framework Core` `SQL Server` `LINQ` `Swagger` `REST API`
-
-🔗 [View Repository](https://github.com/kavishka608/HirePath)
-
----
-
-### 🔹 HomeCraft – Home Services Booking Platform
-**Full-Stack Developer — Individual Project** &nbsp;|&nbsp; *Aug 2026 – Present*
-
-A full-stack platform connecting homeowners with construction professionals.
 
 - 🏗️ Built a full-stack platform connecting homeowners with construction professionals using **Node.js**, **Express**, and **PostgreSQL**
 - 🔗 Implemented **20+ RESTful APIs** with **JWT authentication** for user management, projects, bids, reviews, and portfolios
@@ -105,22 +81,6 @@ A full-stack platform connecting homeowners with construction professionals.
 - 📅 Integrated professional portfolio management and availability tracking
 
 **Tech:** `Node.js` `Express.js` `PostgreSQL` `React` `JWT` `REST API`
-
----
-
-### 🔹 NSBM Student Hub
-Spring Boot application for managing student records with RESTful APIs and MySQL database.
-
-**Tech:** `Java` `Spring Boot` `MySQL` `REST API`
-
----
-
-### 🔹 Hospital Management System
-System design and implementation including UML diagrams and backend logic.
-
-**Tech:** `Java` `UML` `Database Design`
-
-> ➡️ *Explore more projects in my [repositories](https://github.com/kavishka608?tab=repositories).*
 
 ---
 <!-- ========================= GITHUB STATUS ========================= -->
